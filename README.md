@@ -3,7 +3,7 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Castro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunolagoa&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Full Stack Developer, Mobile Software Engineer 
+- 🔥 Front-end Developer and Mobile Software Engineer
 
 - 👨‍💻 All of my projects are available at [https://brunocastro.dev](https://brunocastro.dev)
 
@@ -34,9 +34,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=brunolagoa&show_icons=true&theme=vision-friendly-dark" alt="BrunoCastro stats"/>
-<img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=brunolagoa&show_icons=true&theme=vision-friendly-dark" alt="BrunoCastro stats"/>
+<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
 </p>
 
 <br><br>
