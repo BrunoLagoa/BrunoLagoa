@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://brunocastro.dev](https://brunocastro.dev)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React, React Native**
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -60,9 +58,10 @@
  <img align="center" src="https://img.shields.io/badge/brunovcastro-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
  
- <a href="https://discord.com/Bruno Castro#2817" target="_blank">
+<a href="https://discord.com/Bruno Castro#2817" target="_blank">
  <img align="center" src="https://img.shields.io/badge/BrunoCastro-05122A?style=for-the-badge&logo=discord" alt="discord"/>
 </a>
+  
 </p>
 
 <!---
