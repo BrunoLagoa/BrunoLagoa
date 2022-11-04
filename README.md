@@ -1,7 +1,7 @@
 [![@brunolagoa's Holopin board](https://holopin.me/brunolagoa)](https://holopin.io/@brunolagoa)
 
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Castro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunolagoa&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi, I'm Bruno Castro  <img src="https://komarev.com/ghpvc/?username=brunolagoa&color=yellow" alt="Profile views" /></h1>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunolagoa&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 Front-end Developer and Mobile Software Engineer
 
