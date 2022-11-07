@@ -28,6 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![MongDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
 
 <br><br>
