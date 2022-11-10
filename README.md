@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brunocastro.dev](https://brunocastro.dev)
 
-<br><br>
+<br />
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -31,7 +31,7 @@
 ![Firebase](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
 
-<br><br>
+<br />
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -41,7 +41,7 @@
 <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
 </p>
 
-<br><br>
+<br />
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
@@ -65,8 +65,10 @@
 <a href="https://discord.com/Bruno Castro#2817" target="_blank">
  <img align="center" src="https://img.shields.io/badge/BrunoCastro-05122A?style=for-the-badge&logo=discord" alt="discord"/>
 </a>
-  
+
+![Snake animation](https://github.com/brunolagoa/brunolagoa/blob/output/github-contribution-grid-snake.svg)
 </p>
+
 
 <!---
 BrunoLagoa/BrunoLagoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
