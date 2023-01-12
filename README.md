@@ -36,9 +36,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=brunolagoa&show_icons=true&theme=vision-friendly-dark" alt="BrunoCastro stats"/>
+<img width="420em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunolagoa&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>  
+  
 <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
+  
+<img width="420em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunolagoa&show_icons=true&theme=vision-friendly-dark" alt="BrunoCastro stats"/>
 </p>
 
 <br />
