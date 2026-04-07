@@ -36,8 +36,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunolagoa&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>  
-  
 <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunolagoa&layout=compact&theme=vision-friendly-dark" alt="BrunoCastro most languages"/>
   
 </p>
