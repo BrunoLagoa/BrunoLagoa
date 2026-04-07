@@ -65,11 +65,18 @@
  <img align="center" src="https://img.shields.io/badge/BrunoCastro-05122A?style=for-the-badge&logo=discord" alt="discord"/>
 </a>
 
-![Snake animation](https://github.com/brunolagoa/brunolagoa/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="assets/contribution-grid-snake.svg"
+  />
+</picture>
 </p>
-
-
-<!---
-BrunoLagoa/BrunoLagoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
