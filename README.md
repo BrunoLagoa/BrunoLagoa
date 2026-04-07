@@ -187,7 +187,7 @@ Experienced across startups and large-scale platforms, focusing on performance, 
 [![Instagram](https://img.shields.io/badge/-brunovcastro-05122A?style=for-the-badge&logo=instagram)](https://instagram.com/brunovcastro)
 [![Twitter](https://img.shields.io/badge/-brunocastro-05122A?style=for-the-badge&logo=twitter)](https://twitter.com/BrunoCa75097209)
 [![CodePen](https://img.shields.io/badge/-brunolagoa-05122A?style=for-the-badge&logo=codepen)](https://codepen.io/brunolagoa)
-[![Discord](https://img.shields.io/badge/-BrunoCastro-05122A?style=for-the-badge&logo=discord)](https://discord.com/brunocastro84)
+[![Discord](https://img.shields.io/badge/-BrunoCastro-05122A?style=for-the-badge&logo=discord)](https://discord.com/users/brunocastro84)
 
 ---
 
