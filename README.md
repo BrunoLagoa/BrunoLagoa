@@ -10,7 +10,7 @@
 ---
 
 * 🔥 Frontend & Mobile Developer
-* 📍 Lagoa Santa, MG · 15+ years building software
+* 📍 Lagoa Santa, MG · 15+ years building software (since 2006)
 * 👨‍💻 Specializing in React, React Native, Swift, Kotlin, TypeScript and RPA
 * 🚀 Experience in large-scale platforms and real-time applications
 * 💼 Portfolio: [brunocastro.dev](https://brunocastro.dev)
