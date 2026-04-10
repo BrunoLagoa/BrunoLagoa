@@ -30,7 +30,6 @@ React · React Native · TypeScript · Next.js · Vite
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react) 
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react) 
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js) 
 ![Remix](https://img.shields.io/badge/-Remix-05122A?style=for-the-badge&logo=remix) 
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=for-the-badge&logo=vite) 
@@ -42,9 +41,10 @@ React · React Native · TypeScript · Next.js · Vite
 
 **Mobile**
 
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react) 
+![Expo](https://img.shields.io/badge/-Expo-05122A?style=for-the-badge&logo=expo) 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&logo=swift) 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin) 
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=for-the-badge&logo=expo) 
 
 **Backend & APIs**
 
